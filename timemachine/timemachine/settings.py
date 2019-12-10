@@ -1,3 +1,8 @@
+
+
+
+
+
 """
 Django settings for timemachine project.
 
@@ -37,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'timeteller',
 ]
 
 MIDDLEWARE = [
